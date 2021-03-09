@@ -1,0 +1,4 @@
+Data section
+
+In order to perform an analysis of the restaurants as we are sked, we will use the Foursquare API.
+We will perform queries for the four different categories and depict them to New York map by distinguishing each type with different color.
